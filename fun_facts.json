@@ -1,5 +1,17 @@
 [
-    "Bananas are berries, but strawberries aren't.",
-    "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
-    "Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body."
+  "Flutter is an open-source UI software development toolkit created by Google.",
+  "Flutter uses the Dart programming language, which was also developed by Google.",
+  "Flutter allows for cross-platform development, meaning you can create apps for both Android and iOS with a single codebase.",
+  "Flutter was first announced in 2015 and released in its first stable version in December 2018.",
+  "Widgets are the core building blocks of a Flutter app's user interface.",
+  "Flutter's hot reload feature allows developers to see changes in real-time without restarting the app.",
+  "Flutter apps are compiled to native ARM code for both iOS and Android, which ensures high performance.",
+  "Google’s Fuchsia OS uses Flutter as its default framework for app development.",
+  "Flutter’s layout system is inspired by React, using a similar concept of widgets and components.",
+  "Flutter provides a rich set of pre-designed widgets for building complex UIs quickly.",
+  "The Flutter community is growing rapidly, with thousands of packages available on pub.dev to extend functionality.",
+  "Flutter supports state management solutions like Provider, Bloc, Riverpod, and many others.",
+  "Flutter web and desktop are in beta, allowing the creation of web and desktop applications from the same codebase.",
+  "Many popular apps, such as the Google Ads app and Alibaba's Xianyu, are built using Flutter.",
+  "Flutter’s rendering engine is called Skia, which is the same engine used by Google Chrome and Android."
 ]
